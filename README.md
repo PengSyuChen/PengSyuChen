@@ -4,7 +4,4 @@
 - 📫 How to reach me: [chenpx@hainanu.edu.cn](mailto:chenpx@hainanu.edu.cn)
 - ⚡ Fun fact: ...
 - 🏆 Publications:
-  **SIGIR**
-  **ACM MM**
-  **CVPR**
 
