@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning the Interpretability of multi-modal deep learning models as well as the explainability of vision tasks.
 - 📫 How to reach me: [chenpx@hainanu.edu.cn](mailto:chenpx@hainanu.edu.cn)
 - 🏆 Publications:
-</br>       ✅ **SIGIR oral**
+</br>       ✅ **SIGIR**
 </br>       ✅ **ACM MM**
-</br>       ✅ **IEEE ISPA oral**
+</br>       ✅ **IEEE ISPA**
