@@ -6,6 +6,6 @@
 </br>       - the mitigation of LVLM hallucinations
 - 📫 How to reach me: [chenpx@hainanu.edu.cn](mailto:chenpx@hainanu.edu.cn)
 - 🏆 Publications:
-</br>       ✅ **SIGIR**
+</br>       ✅ **SIGIR** *oral*
 </br>       ✅ **ACM MM**
 </br>       ✅ **IEEE ISPA**
