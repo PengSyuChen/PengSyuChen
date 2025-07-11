@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PengSyuChen
 - 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning the
+- 🌱 I’m currently learning
 </br>       - the Interpretability of multi-modal deep learning models
 </br>       - the explainability of vision tasks
 </br>       - the mitigation of LVLM hallucinations
