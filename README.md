@@ -1,4 +1,4 @@
-<img width="2037" height="233" alt="image" src="https://github.com/user-attachments/assets/24321495-0a52-4edb-95c7-75ef91dd626b" />- 👋 Hi, I’m *@PengSyuChen*
+- 👋 Hi, I’m *@PengSyuChen*
 - 👀 I’m interested in `Computer Vision`
 - 🌱 I’m currently learning
 </br>       `the interpretability of multi-modal deep learning models`
