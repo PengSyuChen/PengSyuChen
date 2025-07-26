@@ -1,5 +1,5 @@
 - 👋 Hi, I’m *@PengSyuChen*
-- 👀 I’m interested in `Computer Vision` and `MM Models`
+- 👀 I’m interested in `Computer Vision` and `Multimodal Models`
 - 🌱 I’m currently learning
 </br>       `the interpretability of multi-modal deep learning models`
 </br>       `the explainability of vision tasks`
