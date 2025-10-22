@@ -1,4 +1,4 @@
-- 👋 Hi, I’m *@PengSyuChen*, a PhD Candidate in *Xidian University*.
+- 👋 Hi, I’m *@PengSyuChen*, a PhD Candidate in **Xidian University**.
 - 👀 I’m interested in `Computer Vision` and `Multimodal Models`
 - 🌱 I’m currently learning
 </br>       `the interpretability of multi-modal deep learning models`
