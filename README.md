@@ -10,4 +10,4 @@
 - 🏆 [Publications](https://scholar.google.com/citations?user=fwHbZGoAAAAJ&hl=zh-CN "link"):
 </br>       ✅ **SIGIR** *oral*
 </br>       ✅ **ACM MM**
-</br>       ✅ **IEEE ISPA**
+</br>       ✅ **IEEE ISPA** *oral*
