@@ -8,6 +8,6 @@
 </br>  [chenpx@stu.xidian.edu.cn](mailto:chenpx@stu.xidian.edu.cn) 
 </br>  [chenpx@hainanu.edu.cn](mailto:chenpx@hainanu.edu.cn)
 - 🏆 [Publications](https://scholar.google.com/citations?user=fwHbZGoAAAAJ&hl=zh-CN "link"):
-</br>       ✅ **SIGIR** *oral*
-</br>       ✅ **ACM MM**
-</br>       ✅ **IEEE ISPA** *oral*
+</br>       ✅ [**SIGIR**](https://dl.acm.org/doi/10.1145/3726302.3729923) *oral*
+</br>       ✅ [**ACM MM**](https://dl.acm.org/doi/10.1145/3664647.3681707)
+</br>       ✅ **IEEE ISPA**
