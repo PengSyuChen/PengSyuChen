@@ -2,8 +2,7 @@
 - 👀 I’m interested in `Computer Vision` and `Multimodal Models`
 - 🌱 I’m currently learning
 </br>       `the interpretability of multi-modal deep learning models`
-</br>       `the explainability of vision tasks`
-</br>       `the mitigation of LVLM hallucinations`
+</br>       `the optimization of LVLM`
 - 📫 How to reach me:
 </br>  [chenpx@stu.xidian.edu.cn](mailto:chenpx@stu.xidian.edu.cn) 
 </br>  [chenpx@hainanu.edu.cn](mailto:chenpx@hainanu.edu.cn)
