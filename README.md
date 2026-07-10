@@ -8,5 +8,5 @@
 </br>  [chenpx@hainanu.edu.cn](mailto:chenpx@hainanu.edu.cn)
 - 🏆 [Publications](https://scholar.google.com/citations?user=fwHbZGoAAAAJ&hl=zh-CN "link"):
 </br>       ✅ **SIGIR** *oral*
-</br>       ✅ **ACM MM** ✖️2
+</br>       ✅ **ACM MM** ×2
 </br>       ✅ **IEEE ISPA**
