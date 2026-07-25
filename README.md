@@ -1,5 +1,8 @@
+
 - 👋 Hi, I’m **PengSyu Chen**, a PhD candidate at **Xidian University**.
-- 👀 I’m interested in `Computer Vision` and `Multimodal Models`.
+- 👀 I’m interested in:
+  - `Computer Vision`
+  - `Multimodal Models`
 - 🌱 I’m currently working on:
   - `Interpretability of multimodal deep learning models`
   - `Optimization of Large Vision-Language Models (LVLMs)`
@@ -12,4 +15,5 @@
 - 📫 Contact:
   - [chenpx@stu.xidian.edu.cn](mailto:chenpx@stu.xidian.edu.cn)
   - [chenpx@hainanu.edu.cn](mailto:chenpx@hainanu.edu.cn)
+
 
