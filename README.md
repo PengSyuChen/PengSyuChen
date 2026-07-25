@@ -6,9 +6,9 @@
 - 📫 How to reach me: </br> [chenpx@stu.xidian.edu.cn](mailto:chenpx@stu.xidian.edu.cn)
 </br> [chenpx@hainanu.edu.cn](mailto:chenpx@hainanu.edu.cn)
 - 🏆 [Publications](https://scholar.google.com/citations?user=fwHbZGoAAAAJ&hl=zh-CN):
-<br> **ACM MM 2026**
-<br> **SIGIR 2025**  *oral*
-<br> **ACM MM 2024**
-<br> **IEEE ISPA 2023**
+<br> **ACM MM 2026** (CCF A)
+<br> **SIGIR 2025** (CCF A) *oral*
+<br> **ACM MM 2024** (CCF A)
+<br> **IEEE ISPA 2023** (CCF C)
 
 
