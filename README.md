@@ -1,18 +1,22 @@
-- 👋 Hi, I’m *@PengSyuChen*, a PhD Candidate in **Xidian University**.
-- 👀 I’m interested in `Computer Vision` and `Multimodal Models`
-- 🌱 I’m currently learning
-</br>       `the interpretability of multi-modal deep learning models`
-</br>       `the optimization of LVLM`
-- 📫 How to reach me:
-</br>  [chenpx@stu.xidian.edu.cn](mailto:chenpx@stu.xidian.edu.cn) 
-</br>  [chenpx@hainanu.edu.cn](mailto:chenpx@hainanu.edu.cn)
-## 🏆 Publications
+```markdown
+- 👋 Hi, I’m **PengSyu Chen**, a PhD candidate at **Xidian University**.
 
-| Year | Venue | Recognition |
-|:----:|-------|-------------|
-| 2026 | **ACM MM** | — |
-| 2025 | **SIGIR** | 🎤 Oral |
-| 2024 | **ACM MM** | — |
-| 2023 | **IEEE ISPA** | — |
+- 👀 I’m interested in:
+  - `Computer Vision`
+  - `Multimodal Models`
 
-🔗 [Google Scholar Profile](https://scholar.google.com/citations?user=fwHbZGoAAAAJ&hl=zh-CN)
+- 🌱 I’m currently working on:
+  - `Interpretability of multimodal deep learning models`
+  - `Optimization of Large Vision-Language Models (LVLMs)`
+
+- 🏆 Publications:
+  - **ACM MM 2026**
+  - **SIGIR 2025** — 🎤 *Oral*
+  - **ACM MM 2024**
+  - **IEEE ISPA 2023**
+  - 📚 [Google Scholar](https://scholar.google.com/citations?user=fwHbZGoAAAAJ&hl=zh-CN)
+
+- 📫 Contact:
+  - [chenpx@stu.xidian.edu.cn](mailto:chenpx@stu.xidian.edu.cn)
+  - [chenpx@hainanu.edu.cn](mailto:chenpx@hainanu.edu.cn)
+```
