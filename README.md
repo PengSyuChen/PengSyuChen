@@ -7,7 +7,7 @@
 </br> [chenpx@hainanu.edu.cn](mailto:chenpx@hainanu.edu.cn)
 - 🏆 [Publications](https://scholar.google.com/citations?user=fwHbZGoAAAAJ&hl=zh-CN):
 <br> **ACM MM 2026**
-<br> **SIGIR 2025** · *oral*
+<br> **SIGIR 2025**  *oral*
 <br> **ACM MM 2024**
 <br> **IEEE ISPA 2023**
 
