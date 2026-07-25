@@ -1,15 +1,14 @@
-- 👋 Hi, I’m **PengSyu Chen**, a PhD candidate at **Xidian University**.
-- 👀 I’m interested in `Computer Vision` and `Multimodal Models`.
-- 🌱 I’m currently working on:
-  - `Interpretability of Multimodal Models`
-  - `Optimization of Large Vision-Language Models`
-- 🏆 Publications:
-  - **ACM MM 2026**
-  - **SIGIR 2025** — *Oral*
-  - **ACM MM 2024**
-  - **IEEE ISPA 2023**
-  - [Google Scholar](https://scholar.google.com/citations?user=fwHbZGoAAAAJ&hl=zh-CN)
-- 📫 Contact:
-  - [chenpx@stu.xidian.edu.cn](mailto:chenpx@stu.xidian.edu.cn)
-  - [chenpx@hainanu.edu.cn](mailto:chenpx@hainanu.edu.cn)
+- 👋 Hi, I’m *@PengSyuChen*, a PhD Candidate in **Xidian University**.
+- 👀 I’m interested in Computer Vision and Multimodal Models
+- 🌱 I’m currently learning
+   </br> the interpretability of multi-modal deep learning models
+   </br> the optimization of LVLM
+- 📫 How to reach me: </br> [chenpx@stu.xidian.edu.cn](mailto:chenpx@stu.xidian.edu.cn)
+</br> [chenpx@hainanu.edu.cn](mailto:chenpx@hainanu.edu.cn)
+- 🏆 [Publications](https://scholar.google.com/citations?user=fwHbZGoAAAAJ&hl=zh-CN):
+<br> **ACM MM 2026**
+<br> **SIGIR 2025** · *oral*
+<br> **ACM MM 2024**
+<br> **IEEE ISPA 2023**
+
 
