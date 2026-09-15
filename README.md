@@ -8,7 +8,7 @@
 </br> [chenpengxu@qiyuanlab.com](mailto:qiyuanlab.com)
 </br> [chenpx@hainanu.edu.cn](mailto:chenpx@hainanu.edu.cn)
 - 🏆 [Publications](https://scholar.google.com/citations?user=fwHbZGoAAAAJ&hl=zh-CN):
-<br> **ACM MM** <sub><i>2026</i></sub>
+<br> **ACM MM** <sub><i>2026</i></sub> 
 <br> **SIGIR** *oral* <sub><i>2025</i></sub>
 <br> **ACM MM** <sub><i>2024</i></sub>
 <br> **IEEE ISPA** <sub><i>2023</i></sub>
