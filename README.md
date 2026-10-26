@@ -5,8 +5,6 @@
    </br> the **optimization** of **LVLM**
 - 📫 How to reach me:
 </br> [chenpx@stu.xidian.edu.cn](mailto:chenpx@stu.xidian.edu.cn)
-</br> [chenpengxu@qiyuanlab.com](mailto:qiyuanlab.com)
-</br> [chenpx@hainanu.edu.cn](mailto:chenpx@hainanu.edu.cn)
 - 🏆 [Publications](https://scholar.google.com/citations?user=fwHbZGoAAAAJ&hl=zh-CN):
 <br> **ACM MM** <sub><i>2026</i></sub> 
 <br> **SIGIR** *oral* <sub><i>2025</i></sub>
