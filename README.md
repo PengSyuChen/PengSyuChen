@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Vision and Multimodal Models
 - 🌱 I’m currently learning
    </br> the **interpretability** of multi-modal deep learning models
-   </br> the **optimization** of **LVLM**
+   </br> the **optimization** of **LVLM** (Hallucination, Token Prune, CoT model, AI4S)
 - 📫 How to reach me:
 </br> [chenpx@stu.xidian.edu.cn](mailto:chenpx@stu.xidian.edu.cn)
 - 🏆 [Publications](https://scholar.google.com/citations?user=fwHbZGoAAAAJ&hl=zh-CN):
